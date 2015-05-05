@@ -14,9 +14,9 @@ to randomly pull any image between 1 and 8. Thus, turning the page into an ASP..
 
 Note: The images included in the file are ones that I took while in Angeles City, Philippines.
 
-Click here to find a working <a href='http://www.chadcompton.com/JustATip/SplashScreenTutorial' target='_blank'>Demo</a>.  
-Or go to GitHub to download the Project 
-Or bitBucket
+Click here to find a working http://www.chadcompton.com/JustATip/SplashScreenTutorial 
+Or go to GitHub to download the Project https://github.com/rccompton/RandomSplashScreenTutorial
 
-Visit my website: <a href='http://www.chadcompton.com' target='_blank'>www.chadcompton.com</a>
+
+Visit my website: http://www.chadcompton.com
 
